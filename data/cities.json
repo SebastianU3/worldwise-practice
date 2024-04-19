@@ -1,0 +1,196 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "a576",
+      "cityName": "Jakarta",
+      "country": "Indonesia",
+      "emoji": "🇮🇩",
+      "date": "2024-04-19T03:56:07.184Z",
+      "notes": "TEST",
+      "position": {
+        "lat": "-6.18424616128059",
+        "lng": "106.85302734375001"
+      }
+    },
+    {
+      "id": "5b61",
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-04-19T06:46:36.726Z",
+      "notes": "",
+      "position": {
+        "lat": "48.83579746243093",
+        "lng": "2.3510742187500004"
+      }
+    },
+    {
+      "id": "e7fc",
+      "cityName": "Bucharest",
+      "country": "Romania",
+      "emoji": "🇷🇴",
+      "date": "2024-04-19T06:47:50.293Z",
+      "notes": "",
+      "position": {
+        "lat": "44.33956524809713",
+        "lng": "26.147460937500004"
+      }
+    },
+    {
+      "id": "6a59",
+      "cityName": "Ankara",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-04-19T06:47:56.724Z",
+      "notes": "",
+      "position": {
+        "lat": "39.791654835253425",
+        "lng": "32.91503906250001"
+      }
+    },
+    {
+      "id": "05e5",
+      "cityName": "Delhi",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-04-19T06:48:02.821Z",
+      "notes": "",
+      "position": {
+        "lat": "28.612253845413424",
+        "lng": "77.21328735351562"
+      }
+    },
+    {
+      "id": "e61f",
+      "cityName": "Moscow",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2024-04-19T06:48:50.557Z",
+      "notes": "",
+      "position": {
+        "lat": "55.74759843942743",
+        "lng": "37.619247436523445"
+      }
+    },
+    {
+      "id": "1ac0",
+      "cityName": "Oslo",
+      "country": "Norway",
+      "emoji": "🇳🇴",
+      "date": "2024-04-19T06:49:05.427Z",
+      "notes": "",
+      "position": {
+        "lat": "59.91132021529975",
+        "lng": "10.739479064941408"
+      }
+    },
+    {
+      "id": "6912",
+      "cityName": "Pyongyang",
+      "country": "Korea (the Democratic People's Republic of)",
+      "emoji": "🇰🇵",
+      "date": "2024-04-19T06:49:25.126Z",
+      "notes": "",
+      "position": {
+        "lat": "39.017583234963475",
+        "lng": "125.75088500976564"
+      }
+    },
+    {
+      "id": "6b0a",
+      "cityName": "Seoul",
+      "country": "Korea (the Republic of)",
+      "emoji": "🇰🇷",
+      "date": "2024-04-19T06:49:40.409Z",
+      "notes": "",
+      "position": {
+        "lat": "37.528242717975054",
+        "lng": "126.98547363281251"
+      }
+    },
+    {
+      "id": "4b1d",
+      "cityName": "Tokyo",
+      "country": "Japan",
+      "emoji": "🇯🇵",
+      "date": "2024-04-19T06:49:56.486Z",
+      "notes": "",
+      "position": {
+        "lat": "35.60371874069731",
+        "lng": "139.83398437500003"
+      }
+    },
+    {
+      "id": "d4da",
+      "cityName": "Kuala Lumpur",
+      "country": "Malaysia",
+      "emoji": "🇲🇾",
+      "date": "2024-04-19T06:50:14.015Z",
+      "notes": "",
+      "position": {
+        "lat": "3.1350311752713904",
+        "lng": "101.70043945312501"
+      }
+    },
+    {
+      "id": "1a8a",
+      "cityName": "Singapore",
+      "country": "Singapore",
+      "emoji": "🇸🇬",
+      "date": "2024-04-19T06:50:23.256Z",
+      "notes": "",
+      "position": {
+        "lat": "1.2822034501316326",
+        "lng": "103.84689331054689"
+      }
+    },
+    {
+      "id": "57d6",
+      "cityName": "Beijing",
+      "country": "China",
+      "emoji": "🇨🇳",
+      "date": "2024-04-19T06:50:49.071Z",
+      "notes": "",
+      "position": {
+        "lat": "39.8992015115692",
+        "lng": "116.39465332031251"
+      }
+    }
+  ]
+}
